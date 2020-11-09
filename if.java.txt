@@ -6,7 +6,7 @@ if(i==0){
 System.out.println("hello");
 }
 else{
-System.out.println("bye");
+System.out.println("yellow");
 }
 }
 }
